@@ -1,0 +1,17 @@
+@import '../../scss/variables';
+
+.footer-container{
+    width: 100%;
+    font-size: .8rem;
+    background-color: $ligthblack;
+    color: $white;
+    padding: 20px;
+
+    p{
+        margin: 25px 0;
+    }
+    a{
+        margin: 0 5px;
+        color: #e2c178;
+    }
+}
